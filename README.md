@@ -11,3 +11,5 @@ Recriando um projeto, a partir de um layout pronto no [**Figma**](https://www.fi
 
 
 ![Capturar](https://user-images.githubusercontent.com/81052476/220468318-faaf31d8-9c48-4a76-b0b5-1fc27afa9064.PNG)
+
+:seedling: HTML | CSS
