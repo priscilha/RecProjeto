@@ -1,11 +1,9 @@
 body{
     margin: 72px auto 0;
     text-align: center;
-    width: 626px;
-    height: 486;
-    
-
-}
+    width: 540px;
+   
+    }
 
 h1{
     font-family: 'Dosis', sans-serif;
@@ -23,7 +21,8 @@ p{
     color: #828282;
     font-size: 15px;
     
- 
+    
+     
 }
 
 strong{
@@ -40,6 +39,9 @@ strong{
 footer a+a{
     margin-left: 28px;
     margin-right: 5px;
+    
+   
+ 
 }
 
 footer, span{
@@ -47,6 +49,18 @@ footer, span{
     color: #3F3D56;
     font-weight: bold;
     font-size: 15px;
+    margin: 20px auto 20px;
+    
    
 }
+
+footer #wave{
+   margin-top: 30px;
+    position: relative;
+    bottom: 0;
+    right: 200px;
+
+}
+
+
 
